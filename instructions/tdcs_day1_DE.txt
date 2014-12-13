@@ -1,0 +1,58 @@
+Sprechererkennungstest (tDCS Tag 1)
+
+Herzlich Willkommen zum ersten Tag der tDCS-Testung. Im Folgenden wird Ihre
+Fähigkeit zur Stimmerkennung getestet. Die Aufgaben zur Stimmidentifizierung
+wechseln sich ab mit Aufgaben zur Worterkennung. Sie werden zwei-Wort Sätze
+hören, gesprochen von den vier Sprechern, die Sie aus den Kurzgeschichten
+kennen und anschließend im Training gelernt haben. Wir beginnen mit einer
+kurzen Übung.
+
+Bitte drücken Sie eine beliebige Taste, um fortzufahren.
+---
+1.Übung (Aufgabe zur Sprechererkennung):
+
+Sie werden Zwei-Wort Sätze hören. Ihre Aufgabe ist es, zu entscheiden, von
+welchem der vier Sprecher, die Sie gelernt haben, der jeweilige Satz gesprochen
+wurde. Hierbei verwenden Sie bitte die Tasten 1-4 für: Leon(1)-Jonas(2)-
+Felix(3)-Moritz(4). Achtung! Es geht auf Zeit! Sie haben drei Sekunden Zeit für
+eine Entscheidung. In der folgenden Übung gibt es 10 Versuche.
+
+Bitte drücken Sie eine beliebige Taste, um fortzufahren.
+---
+Die Übung beginnt in  %i ...
+---
+2.Übung (Aufgabe zur Worterkennung):
+
+Jetzt üben wir die Wort-Erkennung. Sie werden zwei-Wort Sätze hören, gesprochen
+von unseren vier Sprechern. Allerdings werden Ihnen nun vier Wörter statt der
+Namen auf dem Bildschirm präsentiert. Ihre Aufgabe ist es also nun, zu
+entscheiden, welches Wort im gerade gehörten Satz gesprochen wurde. Verwenden
+Sie bitte hierfür wieder die Tasten 1-4 für die Wörter von links nach rechts
+(ganz links=1, ganz rechts=4). Auch hier geht es auf Zeit. Sie haben drei
+Sekunden Zeit, sich zu entscheiden! Versuchen Sie also, so schnell wie möglich
+zu antworten. In der folgenden Übung gibt es wieder 10 Versuche.
+
+Bitte drücken Sie eine beliebige Taste, um fortzufahren.
+---
+Die Übung beginnt in %i ...
+---
+Richtiger Test
+
+Jetzt wird es ernst. Sie werden nun in abwechselnden Blöcken die Aufgaben der
+Sprecherund Worterkennung präsentiert bekommen. Jeder Block besteht aus 40
+Entscheidungen. Insesamtgibt es 12 Blöcke. Zwischen den Blöcken haben Sie 10
+Sekunden Pause.
+
+Bitte drücken Sie eine beliebige Taste, um fortzufahren.
+---
+Der richtige Test beginnt in %i ...
+---
+Der nächste Block folgt in %i ...
+---
+Wer spricht?
+---
+Welches Wort wurde gesagt?
+---
+(abgeschlossene Blöcke  = %i,  Entscheidungen = %i)
+---
+Das war's! Sie haben den ersten Tag  geschafft!

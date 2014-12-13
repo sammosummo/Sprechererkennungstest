@@ -1,0 +1,83 @@
+Sprechererkennungstest (Training day 1)
+
+The purpose of this day of training is to familiarise you with the voices of
+four speakers. There are four parts to the session. Each takes about
+30 minutes. You should have a short break between each block.
+
+Press any key to continue.
+---
+Part 1/4:
+
+In this part, you will first listen to two 10-minute short stories. Each
+story is spoken by a different speaker. You should try to pay attention to each
+speakers' voice characteristics. After hearing them, you will be given a short
+speaker-recognition test. The first story is spoken by Leon.
+
+Press any key to hear the first story.
+---
+You will now listen to the second story, spoken by Jonas. Press any key to hear
+it.
+---
+You will now do a speaker-recognition test. On each trial, you will hear a
+sentence spoken by either of the speakers. Your job is to report that speaker's
+name using the number keys on the keyboard (1=Leon, 2=Jonas). You have
+unlimited time to respond. If you make a mistake, you will hear the sentence
+again, and will get another attempt. A trial is not over until you get the
+correct answer.
+
+The test will end after you get 10 trials in a row correct first time, or after
+50 trials. Press any key to begin the test.
+---
+Part 2/4:
+
+You will now hear two more stories, spoken by two new speakers. Again, pay
+attention to the speakers' voice characteristics; there will be another test
+afterwards. The first story is spoken by Felix.
+
+Press any key to hear the first story.
+---
+You will now listen to the second story, spoken by Moritz. Press any key to
+hear it.
+---
+You will now do another speaker-recognition test. It is the same as the last
+one, except that you will hear sentences spoken by either Felix or Moritz. Your
+job is to report that speaker's name using the number keys on the keyboard
+(3=Felix, 4=Moritz).
+
+As before, the test will end after you get 10 trials in a row correct first
+time, or after 50 trials. Press any key to begin the test.
+---
+Part 3/4:
+
+You will now hear the four stories again, except now each will be spoken by
+one of the other speakers. The first story is spoken by Leon.
+
+Press any key to hear the first story.
+---
+You will now listen to the second story, spoken by Jonas. Press any key to hear
+it.
+---
+You will now listen to the third story, spoken by Felix. Press any key to hear
+it.
+---
+You will now listen to the second story, spoken by Moritz. Press any key to
+hear it.
+---
+Part 4/4:
+
+You will now do a final speaker-recognition test. This is the same as the
+previous tests, except thet you will be able to use all four options (1=Leon,
+2=Jonas, 3=Felix, 4=Moritz).
+
+The test will end after 100 trials, or after you get 15 trials in a row correct
+first time. Press any key to begin the test.
+---
+Who is speaking?
+---
+Incorrect, please try again.
+---
+Correct!
+---
+(trials done = %i, correct in a row = %i)
+---
+That's it! You have finished the first day of training.

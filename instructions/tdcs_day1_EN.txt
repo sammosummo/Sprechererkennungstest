@@ -1,0 +1,53 @@
+Sprechererkennungstest (tDCS day 1)
+
+The purpose of this day of test your speaker- and speech-recognition abilites.
+First, please wait while the experimenter sets up the tDCS. Next, you will do
+a short practice.
+
+Press any key to continue.
+---
+Practice (speaker task):
+
+Now you will practice the speaker task. On each trial, you will hear a
+sentence spoken by one of the four speakers. Your job is to report that
+speaker's name using the number keys on the keyboard (1=Leon, 2=Jonas, 3=Felix,
+4=Moritz). You will only have three seconds to respond, so try to be as quick
+as possible while getting the correct answers. There are 10 trials in the
+practice.
+
+Press any key to begin.
+---
+Practice begins in %i ...
+---
+Practice (speech task):
+
+Now you will practice the speech task. On each trial, you will hear a
+sentence spoken by one of the four speakers. Four alternative words will also
+be printed to the screen. Your job is to choose which word was spoken using the
+number keys on the keyboard (1-4). You will only have three seconds to respond,
+so try to be as quick as possible while getting the correct answers. There are
+10 trials in the practice.
+
+Press any key to begin.
+---
+Practice begins in %i ...
+---
+Main test.
+
+Now we will begin the main test. You will perform alternating blocks of speaker
+and speech trials. Each block contains 40 trials, and there are 12 blocks in
+total. You will be given a 10-second break between each block.
+
+Press any key to begin.
+---
+Test begins in %i ...
+---
+Next block begins in %i ...
+---
+Who is speaking?
+---
+What was the verb?
+---
+(blocks done = %i, trials done = %i)
+---
+That's it! You have finished the first day of tDCS.

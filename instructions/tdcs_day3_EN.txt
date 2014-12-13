@@ -1,0 +1,17 @@
+Sprechererkennungstest (tDCS day 3)
+
+Press any key to continue.
+---
+There are no practice blocks this time. Press any key to begin the real thing.
+---
+Test begins in %i ...
+---
+Next block begins in %i ...
+---
+Who is speaking?
+---
+What was the verb?
+---
+(blocks done = %i, trials done = %i)
+---
+That's it! You have finished the first day of tDCS.
